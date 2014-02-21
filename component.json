@@ -3,4 +3,5 @@
   "description": "component graph app",
   "paths": ["lib"],
   "local": ["boot"]
+  "scripts":  ["index.js"]
 }
